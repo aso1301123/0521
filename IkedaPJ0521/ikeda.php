@@ -1,3 +1,3 @@
 <?php
-	print "増山";
+	print "池田";
 ?>
